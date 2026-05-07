@@ -76,7 +76,7 @@ pandas · numpy · scikit-learn · matplotlib · seaborn · umap-learn · tqdm
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Основные результаты  
 ### K‑Means показал наилучший силуэт при k=6.
   
